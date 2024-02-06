@@ -6,9 +6,10 @@ author: Cristal Harris, Ed. D.
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Real STEM learning is hands-on. Engage in our computer science activities to help build your understanding
-  in any subject! Move forward from worksheet that focus on recall and develop computational thinking skills
-  that build abstract thinking!
+  Engage in our computer science activities to help build your understanding in math.
+  Move forward from worksheet that focus on recall and develop thinking skills that allow you
+  to succeed in math! Our code is open source for all to participate! View our math coding lessons 
+  or access coding lessons from any subject!
 
 # Build settings
 
