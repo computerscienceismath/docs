@@ -8,9 +8,8 @@ author: Cristal Harris, Ed. D.
 description: >
   Engage in our computer science activities to help build your understanding in math.
   Move forward from worksheet that focus on recall and develop thinking skills that allow you
-  to succeed in math! Our code is open source for all to participate! View our math coding lessons 
-  or access coding lessons from any subject!
-
+  to succeed in math! Our code is open source for all to participate!
+  
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
@@ -45,7 +44,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
+  skin: solarized-light
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
