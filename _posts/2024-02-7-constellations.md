@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Grades 4+: Creating the Big and Little Dipper using the Coordinate Plane"
-categories: Scientific Visualizations
+categories: misc
 ---
 
 This lesson is a great way to teach students about earth and space science using the coordinate plane! 
