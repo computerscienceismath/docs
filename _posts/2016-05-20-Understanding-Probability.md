@@ -3,7 +3,8 @@ layout: post
 title: Elementary Math: Understanding Probability
 ---
 
-Create a spinner using Scratch Animation to understand how probability works. 
+Create a spinner using Scratch Animation to understand how probability works. Probability is the possibility or
+chance of an event occurring. Teach students how to make predictions.
 
 {% comment %}
 Might you have an include in your theme? Why not try it here!
