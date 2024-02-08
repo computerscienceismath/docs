@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Elementary Math: Understanding Probability
 ---
 
 Create a spinner using Scratch Animation to understand how probability works. Probability is the possibility or
